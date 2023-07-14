@@ -1,5 +1,4 @@
 import logging
-
 from structlog import wrap_logger
 
 from transaction_service.app import Application
